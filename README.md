@@ -1,5 +1,5 @@
 # Programaci-n_Avanzada
 Trabajos
 
-**Briyid Catalina Cruz Ostos**
+**Briyid Catalina Cruz Ostos**-
 **Jonnathan Sotelo Rodríguez**
